@@ -6,4 +6,4 @@
 - пользователь может ввести числа в текстовые поля, нажать кнопку и получить в текстовом поле результат, соответствующей арифметической операции над введёнными числами в текстовом поле 
 Пример выполнение операции сложения:
 
-https://github.com/ssplant/LabWorkOneWPF-Calculator/blob/master/image.png
+https://raw.githubusercontent.com/ssplant/LabWorkOneWPF-Calculator/master/image.png
