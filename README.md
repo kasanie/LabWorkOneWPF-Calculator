@@ -7,5 +7,6 @@
  
 Пример выполнения операции сложения:
 ![alt text](https://github.com/ssplant/LabWorkOneWPF-Calculator/blob/master/image.png "Пример выполнения операции сложения")
+
 Моя программа:
 ![alt text](https://github.com/ssplant/LabWorkOneWPF-Calculator/blob/master/Capture.PNG "Пример выполнения операции умножения")
